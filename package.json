@@ -1,0 +1,17 @@
+{
+  "name": "expressusingroutes",
+  "version": "1.0.0",
+  "description": "express demo using routes",
+  "main": "hello.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "start" : "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandhini",
+  "license": "ISC"
+}
